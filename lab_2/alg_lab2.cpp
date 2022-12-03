@@ -2,7 +2,7 @@
 #include <stdlib.h>
 #include <string.h>
 #include <time.h>
-#include "str.h"
+#include "machword.h"
 
 using namespace std;
 
